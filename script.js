@@ -25,7 +25,9 @@ const yesTeasePokes = [
     "try saying no first... I bet you want to know what happens 😏",
     "go on, hit no... just once 👀",
     "you're missing out 😈",
-    "click no, I dare you 😏"
+    "click no, I dare you 😏",
+    "hit no...😈",
+    "you're missing out 😈",
 ]
 
 let yesTeasedCount = 0
