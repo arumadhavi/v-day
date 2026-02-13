@@ -2,7 +2,6 @@
 
 A fun, interactive Valentine's Day page where the "Yes" button grows bigger every time they click "No" — with falling hearts, cute GIFs, music, and playful toast messages. Built with pure HTML, CSS, and JavaScript.
 
-**Live demo:** [sahilgogna.github.io/v-day](https://sahilgogna.github.io/v-day)
 
 
 ---
@@ -18,7 +17,7 @@ You've got three options — pick whatever works for you.
 No setup needed. Just send this link:
 
 ```
-https://sahilgogna.github.io/v-day
+https://arumadhavi.github.io/v-day
 ```
 
 That's it. Done. You're welcome.
@@ -30,7 +29,7 @@ That's it. Done. You're welcome.
 Want your own version you can customize? Follow these steps:
 
 #### 1. Fork the Repo
-- Go to [github.com/SahilGogna/v-day](https://github.com/SahilGogna/v-day)
+- Go to [github.com/arumadhavi/v-day](https://github.com/arumadhavi/v-day)
 - Click the **Fork** button in the top-right corner
 - This creates a copy of the repo under your GitHub account
 
